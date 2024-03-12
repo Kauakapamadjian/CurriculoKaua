@@ -1,0 +1,58 @@
+#inicio{
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    border: 2px solid black;
+    border-radius: 2rem;
+    padding: 2rem;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem;
+}
+
+#nome{
+    background-color: gray;
+    text-align: center;
+    border-radius: 2rem;
+    color: white;
+    padding: 0.3rem;
+    font-size: 1.7rem;
+}
+
+
+.oi{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    border-bottom: 1px solid gray;
+}
+
+.pJovem{
+    width: 50%;
+}
+
+img{
+  width: 200px;
+  border-radius: 2rem;
+  
+}
+ 
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    width: 30rem;
+  
+}
+
+p{
+    word-wrap: break-word;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
